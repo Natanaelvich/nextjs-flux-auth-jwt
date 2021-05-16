@@ -1,6 +1,6 @@
-<h1 align='center'> IG NEWS 🚀</h1>
+<h1 align='center'> Next Flux Auth JWT 🚀</h1>
 
-### Application for newsletter subscription with payment via stripe
+### Application for next flux auth jwt
 
 ---
 
