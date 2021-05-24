@@ -1,9 +1,8 @@
-/* eslint-disable import/no-extraneous-dependencies */
 import { createContext, ReactNode, useEffect, useState } from 'react';
-import { destroyCookie, parseCookies, setCookie } from 'nookies';
+import { setCookie, parseCookies, destroyCookie } from 'nookies';
 import Router from 'next/router';
 
-import { api } from '../services/api';
+import { api } from '../services/apiClient';
 
 type User = {
   email: string;
